@@ -1,5 +1,16 @@
 # x_y_z_heatmap
 
+# Binders (Incognito Recommended)
+
+## Homepage and file access
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/x_y_z_heatmap/main)
+
+
+
+## Main Notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/x_y_z_heatmap/main?urlpath=voila%2Frender%2Fadvanced_intensity_map-overlay.ipynb)
+
+
 ### Inputs
 1. CSV with three columns representing x, y and z (intensity) respectively.
 2. Background Image (if desired)
