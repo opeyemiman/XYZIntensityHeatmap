@@ -3,12 +3,12 @@
 # Binders (Incognito Recommended)
 
 ## Homepage and file access
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/x_y_z_heatmap/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/XYZIntensityHeatmap/main)
 
 
 
 ## Main Notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/x_y_z_heatmap/main?urlpath=voila%2Frender%2Fadvanced_intensity_map-overlay.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/XYZIntensityHeatmap/main?urlpath=voila%2Frender%2Fadvanced_intensity_map-overlay.ipynb)
 
 
 ### Inputs
