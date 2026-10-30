@@ -1,4 +1,4 @@
-# x_y_z_heatmap
+# xyz heatmap
 
 # Binders (Incognito Recommended)
 
