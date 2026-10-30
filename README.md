@@ -8,7 +8,7 @@
 
 
 ## Main Notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/XYZIntensityHeatmap/main?urlpath=voila%2Frender%2Fadvanced_intensity_map-overlay.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/XYZIntensityHeatmap/main?urlpath=voila%2Frender%2FAdvancedHeatmap.ipynb)
 
 
 ### Inputs
