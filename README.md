@@ -16,9 +16,9 @@
 2. Background Image - .png preferred
 
 ### Options 
-5. Colorscheme
-6. Data callout
-7. plot bounds
-8. Background Image Scaling
+1. Colorscheme
+2. . Data callout
+3. plot bounds
+4. Background Image Scaling
 
 
